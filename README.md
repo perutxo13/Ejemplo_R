@@ -15,7 +15,7 @@ git status
 git commit -m "Este es el proceso que tenemos que aprendernos"
 ```
 
-Y si quieres poner un link tendreis que poner [Nomber que aparecerá](https://leonardo.ai/faq/)
+Y si quieres poner un link tendreis que poner [Nombre que aparecerá](https://leonardo.ai/faq/)
 
 ![Aqui ponemos una pequeña descripcion de la imagen para las personas que no pueden ver y para que el buscador nos posicione mejor](https://fotografias.antena3.com/clipping/cmsimages01/2023/02/09/9B15C034-6FEF-4A5B-894A-ADF1272A9662/fernando-alonso-imagen-facilitada-aston-martin_104.jpg?crop=800,800,x0,y0&width=1200&height=1200&optimize=low&format=webply)
 <img src="https://fotografias.antena3.com/clipping/cmsimages01/2023/02/09/9B15C034-6FEF-4A5B-894A-ADF1272A9662/fernando-alonso-imagen-facilitada-aston-martin_104.jpg?crop=800,800,x0,y0&width=1200&height=1200&optimize=low&format=webply" alt="así se mete la descripción en html" width="100" height="100">
@@ -24,9 +24,39 @@ si quiero crear una lista puedo usar_
 - esto
 - oooo
 
-  o:
+o:
   * estoo
   * oooo
 
-  O:
+O:
   + el plus
+ 
+si quiere que sea una lista ordenada:
+  1. uno
+  2. dos
+  3. tres
+
+  121. hola
+  122. adios
+
+
+esto lo desarrollaré en una nota al pie [^1]
+
+[^1]: que desarrolaré aquí
+
+también hay emojis. :+1: o :shipit: por ejemplo
+> [!NOTE]
+> información util que quiero puntualizar.
+
+> [!TIP]
+> Consejos sobre como interpretar mejor lo que sea mejor
+
+> [!IMPORTANT]
+> No hacer ruido
+
+> [!WARNING]
+> Para que urko no se enfade
+
+> [!CAUTION]
+> porque tiene caracter
+
